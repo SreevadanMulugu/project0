@@ -20,7 +20,8 @@
 * ![image](https://github.com/user-attachments/assets/8fb7cda7-fd3d-41af-8bf0-1f42bb429d4d)
 * ![image](https://github.com/user-attachments/assets/f7f82e2c-98a0-4437-bc72-92c854d717b8)
 * 7.Graphs
-* ![Screenshot 2024-07-08 181329](https://github.com/user-attachments/assets/1b4685d5-a5f4-4937-9e63-6a6844ac3af4)
+*  Type 0 2D Graphs ![Screenshot 2024-07-08 181329](https://github.com/user-attachments/assets/1b4685d5-a5f4-4937-9e63-6a6844ac3af4)
+*  Type 1 3D Graphs ![image](https://github.com/user-attachments/assets/9fdb6d3f-3e7c-43ef-a508-14389a2846ab)
 * 8.Stopwatch app
 * TYPE 0 Clean ![Screenshot 2024-07-09 000325](https://github.com/user-attachments/assets/dff1ea3f-df7e-4919-83d8-6f7304f32baf)
 * Type 1 Color ![Screenshot 2024-07-09 000027](https://github.com/user-attachments/assets/22e18e9d-9185-4c78-8be6-1f45fa4f6435)
