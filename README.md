@@ -4,13 +4,13 @@
 * It is written in python and runs only on windows operating system.
 * It is local , fast and private.
 * Some the the examples are 
-* 1.Audio exactractor ![Screenshot 2024-07-26 173058](https://github.com/user-attachments/assets/e69a7d24-6a28-4976-a5ad-1ab414f012fc)
+* 1.Audio exactractor ![Screenshot 2024-09-03 220741](https://github.com/user-attachments/assets/f370a723-1767-4bd0-acf5-1593f20a8b2f)
+
 * 2.Writing data and visualizing graph
 * ![Screenshot 2024-08-16 162821](https://github.com/user-attachments/assets/26bdfd61-d23b-4e97-8c6d-79721d3198dd)
 * ![Screenshot 2024-08-16 163021](https://github.com/user-attachments/assets/8f127cef-9836-40e9-bcdb-5de8ea3764ac)
 * 3.Whiteboard 
-* ![Screenshot 2024-08-17 001427](https://github.com/user-attachments/assets/7009d042-f48f-4bbc-9ce5-11904ec75464)
-* ![Screenshot 2024-08-17 001502](https://github.com/user-attachments/assets/2c4a87c9-74b2-4c25-b300-af9854079840)
+* ![Screenshot 2024-09-03 215513](https://github.com/user-attachments/assets/d3bdf2f1-a638-46af-ae8f-0f3c168b0846)
 ![Screenshot 2024-08-17 003032](https://github.com/user-attachments/assets/d50949c0-2b3a-425e-9827-910fc7eaaed7)
 * 4.Creating website
 * ![Screenshot 2024-07-18 142707](https://github.com/user-attachments/assets/9f9e8bd7-b58e-41fa-b763-e637cf22bbf2)
