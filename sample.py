@@ -50,7 +50,7 @@ def create_file(content, file_name, extension):
 # Example usage
 def main():
     # Example query to Ollama
-    query = 'Create a python program to play devara chutamalle video song (telugu) in youtube'
+    query = 'Create a python program to a presentation file (microsoft powerpoint) file on llamas make it clean neat and presentable as a project of ug student no images only text no multimedia '
     response = get_ollama_response(query)
 
     # Step 2: Extract and save bash command
