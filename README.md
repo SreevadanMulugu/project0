@@ -15,6 +15,10 @@
 * 4.Creating website
 * ![Screenshot 2024-07-18 142707](https://github.com/user-attachments/assets/9f9e8bd7-b58e-41fa-b763-e637cf22bbf2)
 * ![Screenshot 2024-07-18 201405](https://github.com/user-attachments/assets/009bd9b4-b40d-497d-8143-884dc23be2bc)
+* 5.Opening a file by just using prompt
+* Prompt : Open a resume named pdf file present in my downloads
+* ![image](https://github.com/user-attachments/assets/bf75e7ea-36d4-4a5f-82b3-d7cbd721b65a)
+
 * 5.Creating a report ![image](https://github.com/user-attachments/assets/ac927268-9301-4fe1-ae07-441021e6f518)
 * ![Screenshot 2024-08-31 012525](https://github.com/user-attachments/assets/fc49a32a-6930-4243-bd90-64fa261d7271)
 
